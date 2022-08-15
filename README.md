@@ -2,7 +2,7 @@
 <p align="left"></p>
 
 - Basic Game Developer
-- I started learning Javascript, when I do I will be a front-end developer
+- Beginner UI Designer
 
 <h3 align="left">How to contact with me?</h3>
 <p align="left">
