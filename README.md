@@ -2,7 +2,7 @@
 <p align="left"></p>
 
 - Basic Game Developer
-- Beginner UI Designer
+- Front-end Developer
 
 <h3 align="left">How to contact with me?</h3>
 <p align="left">
