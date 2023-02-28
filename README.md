@@ -20,8 +20,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"    height="40"/>
     </a>
-        <a href="https://jquery.com" target="_blank">
-        <img src="http://lz3g.com/wp-       content/uploads/687474703a2f2f707265636973696f6e2d736f6674776172652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f6a5175726572792e676966.gif"   alt="jquery" width="40" height="40"/>
+    <a href="https://jquery.com" target="_blank">
+        <img src="http://lz3g.com/wp-content/uploads/687474703a2f2f707265636973696f6e2d736f6674776172652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f6a5175726572792e676966.gif" alt="jquery" width="40" height="40"/>
     </a>
 </p>
 
