@@ -11,13 +11,13 @@
 - I'm a developer at FiveM
 - I also make websites when I'm bored.
 
-### Places I work in:
+## Places I work in:
 I'm just a developer at FiveM for now.
 
 - Oph3Z Dev. (My Own Store)
 - CODEM
 
-### Languages and Tools:
+## Languages and Tools:
 <p align="center">
   <img height="40" style="vertical-align:top; margin:4px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img height="40" style="vertical-align:top; margin:4px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
