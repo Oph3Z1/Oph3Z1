@@ -32,9 +32,9 @@ I'm just a developer at FiveM for now.
 ## 🏆 My Github Stats:
 <div>
    <a href="https://github-readme-stats.vercel.app/api?username=Oph3Z1&theme=material-palenight">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Oph3Z1&count_private=true&show_icons=true&theme=material-palenight" />
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Oph3Z1&count_private=true&show_icons=true&theme=tokyonight&border_color=black" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Oph3Z1&hide=php&theme=material-palenight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oph3Z1&hide=php&theme=material-palenight" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oph3Z1&hide=php&theme=tokyonight&border_color=black" />
   </a>
 </div>
