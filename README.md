@@ -1,29 +1,33 @@
-<h1 align="center">Hi, I'm Oph3Z</h1>
-<p align="left"></p>
+<div align="center">
+  <h1>Hi there, I'm Oph3Z 👋</h1>
+</div>
 
-- Basic Game Developer
-- Front-End Developer
+- **Oph3Z#0351**
+- [**_Youtube_**](https://www.youtube.com/channel/UC1A8ARiyLBTFVOTTj76hTDw)
+- [**_Tebex_**](https://oph3z-dev.tebex.io/)
+- [**_Discord Server_**](https://discord.gg/r74XzV7QDx)
 
-<h3 align="left">How to contact with me?</h3>
-<p align="left">
-<a href="https://discord.gg/r74XzV7QDx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/r74XzV7QDx" height="30" width="40" /></a>
+## I'm a Front-End & Basic Game Developer
+- I'm a developer at FiveM
+- I also make websites when I'm bored.
+
+### Places I work in:
+I'm just a developer at FiveM for now.
+
+- Oph3Z Dev. (My Own Store)
+- CODEM
+
+### Languages and Tools:
+<p align="center">
+  <img height="40" style="vertical-align:top; margin:4px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  <img height="40" style="vertical-align:top; margin:4px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+  <img height="40" style="vertical-align:top; margin:4px" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img height="40" style="vertical-align:top; margin:4px" alt="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
+  <img height="40" style="vertical-align:top; margin:4px" alt="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
+  <img height="40" style="vertical-align:top; margin:4px" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <br/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.lua.org" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40">
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"    height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oph3z1&show_icons=true&locale=en&layout=compact" alt="oph3z1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oph3z1&show_icons=true&locale=en" alt="oph3z1" /></p>
+## 🏆 My Github Stats:
+<div>
+</div>
