@@ -15,7 +15,6 @@
 I'm just a developer at FiveM for now.
 
 - Oph3Z Dev. (My Own Store)
-- CODEM
 
 ## Languages and Tools:
 <p align="center">
