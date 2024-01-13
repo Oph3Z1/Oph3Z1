@@ -21,7 +21,7 @@ I'm just a developer at FiveM for now.
 <p align="center">
   <img height="40" style="vertical-align:top; margin:6px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:12px;" />
   <img height="40" style="vertical-align:top; margin:6px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:12px;" />
-  <img height="40" style="vertical-align:top; margin:6px" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img height="40" style="vertical-align:top; margin:6px" alt="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:12px;" />
   <img height="40" style="vertical-align:top; margin:6px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:12px;" />
   <img height="40" style="vertical-align:top; margin:6px" alt="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="padding-right:12px;" />
   <img height="40" style="vertical-align:top; margin:6px" alt="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" style="padding-right:12px;" />
