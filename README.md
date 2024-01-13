@@ -14,7 +14,8 @@
 ## Places I work in:
 I'm just a developer at FiveM for now.
 
-- Oph3Z Dev. (My Own Store)
+- codeReal (My Own Store)
+- CodeM
 
 ## Languages and Tools:
 <p align="center">
