@@ -4,7 +4,7 @@
 
 - **Oph3Z#0351**
 - [**_Youtube_**](https://www.youtube.com/channel/UC1A8ARiyLBTFVOTTj76hTDw)
-- [**_Tebex_**](https://oph3z-dev.tebex.io/)
+- [**_Tebex_**](https://codereal.tebex.io/)
 - [**_Discord Server_**](https://discord.gg/r74XzV7QDx)
 
 ## I'm a Front-End & Basic Game Developer
