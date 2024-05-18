@@ -15,7 +15,6 @@
 I'm just a developer at FiveM for now.
 
 - codeReal (My Own Store)
-- CodeM
 
 ## Languages and Tools:
 <p align="center">
