@@ -9,10 +9,10 @@
 
 ## I'm a Front-End & Basic Game Developer
 - I'm a developer at FiveM
-- I also make websites when I'm bored.
+- I also make websites when I'm bored
 
 ## Places I work in:
-I'm just a developer at FiveM for now.
+I'm just a developer at FiveM for now
 
 - codeReal (My Own Store)
 
